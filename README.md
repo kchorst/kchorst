@@ -1,4 +1,7 @@
+![Kevin](https://user-images.githubusercontent.com/80052744/110022603-f9c6b580-7ce0-11eb-8e86-b2586b897330.jpg)
+
 ### Hi, I'm Kevin 👋
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
