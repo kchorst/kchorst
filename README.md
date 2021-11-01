@@ -5,12 +5,12 @@
 ### Hi, I'm Kevin 👋
 
 
-- 🔭 I’m currently working as a product manager for an organic agriculture startup...
-- 🌱 I’m currently learning all about organic agriculture.
+- 🔭 I’m currently freelancing as a consultant for MEAL activities...
+- 🌱 I’m currently learning R and Python for data analysis and statistics.
 - 👯 I’m looking to collaborate on how best to 
-- 🤔 I’m looking for help with organic agriculture operations, management, regulatory affairs, and "paperwork."
-- 💬 Ask me about anything related to PM for technology and organizations.
-- 📫 How to reach me: email me, twitter me, instagram, linkedin, and githum
+- 🤔 I’m looking for help with finding projects to help with.
+- 💬 Ask me about anything related to working at companies such as Microsoft or the United Nations, or how to find and work abroad.
+- 📫 How to reach me: email me, or linkedin, and githum
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I started computing in 1979!!
 
