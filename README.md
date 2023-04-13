@@ -5,14 +5,40 @@
 ### Hi, I'm Kevin 👋
 
 
-- 🔭 I’m currently freelancing as a consultant for MEAL activities...
-- 🌱 I’m currently learning R and Python for data analysis and statistics.
-- 👯 I’m looking to collaborate on how best to find  work in monitoring, evaluating, assessing, and learning. 
-- 🤔 I’m looking for help with finding projects or events to contribute to.
-- 💬 Ask me about anything related to how to work independently, travel, or whatever.
-- 📫 How to reach me: email me, or linkedin, and github.
-- 😄 Pronouns: he/him/his
+- 🔭 I’m currently freelancing as a business analystt and learning experience designer.
+- 🌱 I’m currently enrolled in the Google Data Analytics Certificate program. 
+- 👯 I’m available to collaborate on how best to approach or troubleshoot organizational problems and create actionable interventions. 
+- 📫 How to reach me: email me and/or github.
 - ⚡ Fun fact: I started computing in 1979!!
+
+## Freelance Business and Data Analyst Experience
+
+I am a freelance business and data analyst with over 35 years of experience working with clients in various industries such as education, aviation safety, software, and hardware. I have deep and varied experience designing learning experiences, developing data-driven strategies, and conducting research to inform business decisions.
+
+### Relevant Keywords
+
+- Business analysis
+- Data analysis
+- Learning experience design
+- Data-driven strategies
+- Research
+- Performance interventions (SOPs, training, workshops, one-on-ones, learning aids, job aids, etc.)
+
+<!--### Related Work
+
+- [Project Name 1](https://github.com/yourusername/project1): A data analysis project for a financial services client.
+- [Project Name 2](https://github.com/yourusername/project2): A learning experience design project for an e-commerce company.
+- [Project Name 3](https://github.com/yourusername/project3): A research project for a healthcare client.
+-->
+## My Tech Stack
+
+- Data Analysis: Spreadsheets, SQL, BigQuery, etc.
+- Project Management: Trello, Asana, Jira
+- Communication: Slack, Zoom, Google Meet
+
+Thank you for stopping by!
+
+
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
