@@ -1,14 +1,13 @@
-
+<!--
 ![IMG_8065_resized](https://user-images.githubusercontent.com/80052744/110022825-46aa8c00-7ce1-11eb-8a87-f2b261c9c9d5.JPG)
-
+-->
 
 ### Hi, I'm Kevin 👋
 
-
-- 🔭 I’m currently freelancing as a business analystt and learning experience designer.
-- 🌱 I’m currently enrolled in the Google Data Analytics Certificate program. 
+- 🔭 I’m freelancing as a business analyst and learning experience designer.
+- 🌱 I’m enrolled in the Google Data Analytics Certificate program. 
 - 👯 I’m available to collaborate on how best to approach or troubleshoot organizational problems and create actionable interventions. 
-- 📫 How to reach me: email me and/or github.
+- 📫 Email me and/or github.
 - ⚡ Fun fact: I started computing in 1979!!
 
 ## Freelance Business and Data Analyst Experience
@@ -39,7 +38,7 @@ I am a freelance business and data analyst with over 35 years of experience work
 Thank you for stopping by!
 
 
-
+<!-- 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
@@ -83,11 +82,11 @@ Thank you for stopping by!
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: http://www.twitter.com/kchorst
-<!-- [2]: http://www.facebook.com/sednaoui
-<!-- [3]: https://plus.google.com/+CarlSednaoui
-<!-- [4]: http://carlsed.tumblr.com
-<!-- [5]: http://dribbble.com/carlsednaoui
+<!-- [1]: http://www.twitter.com/kchorst-->
+<!-- [2]: http://www.facebook.com/
+<!-- [3]: https://plus.google.com/
+<!-- [4]: http://www.tumblr.com
+<!-- [5]: http://dribbble.com/
 -->
 [6]: http://www.github.com/kchorst
 
