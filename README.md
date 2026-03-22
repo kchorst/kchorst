@@ -4,8 +4,8 @@
 
 ### Hi, I'm Kevin 👋
 
-- 🔭 I’m freelancing as a business analyst and learning experience designer.
-- 🌱 I’m enrolled in the Google Data Analytics Certificate program. 
+- 🔭 I’m freelancing as a vibe coder, business analyst, and learning experience designer.
+- 🌱 I’m enrolled in Washington State University Master's of Strategic Communication program. 
 - 👯 I’m available to collaborate on how best to approach or troubleshoot organizational problems and create actionable interventions. 
 - 📫 Email me and/or github.
 - ⚡ Fun fact: I started computing in 1979!!
@@ -13,6 +13,8 @@
 ## Freelance Business and Data Analyst Experience
 
 I am a freelance business and data analyst with over 35 years of experience working with clients in various industries such as education, aviation safety, software, and hardware. I have deep and varied experience designing learning experiences, developing data-driven strategies, and conducting research to inform business decisions.
+
+Presently I am using Claude (my favorite) to vibe code in Python, React, and a few others. My interests are in travel and languages, so there are mostly apps and scripts that relate to these interests.
 
 ### Relevant Keywords
 
@@ -25,15 +27,14 @@ I am a freelance business and data analyst with over 35 years of experience work
 
 <!--### Related Work
 
-- [Project Name 1](https://github.com/yourusername/project1): A data analysis project for a financial services client.
-- [Project Name 2](https://github.com/yourusername/project2): A learning experience design project for an e-commerce company.
-- [Project Name 3](https://github.com/yourusername/project3): A research project for a healthcare client.
+- [Project Name 1](https://github.com/kchorst/catsoftravels-pipeline): This is a set of python scripts and batch files to automate the process of creating slideshows from folders of images, with options to add music, LLM-generated title and other YouTube fields, and post them to YouTube.
 -->
 ## My Tech Stack
 
 - Data Analysis: Spreadsheets, SQL, BigQuery, etc.
 - Project Management: Trello, Asana, Jira
 - Communication: Slack, Zoom, Google Meet
+- Claude: vibe coding, but have used CoPilot, ChatGPT< and Gemini as well.
 
 Thank you for stopping by!
 
