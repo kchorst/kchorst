@@ -34,5 +34,7 @@ Business analysis · Data analysis · Learning experience design · Data-driven 
 GitHub: kchorst
 Email: catsoftravels@gmail.com
 
+*Cats of Travels* 🐱✈️
+
 
 Thank you for stopping by!🐱
