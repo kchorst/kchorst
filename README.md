@@ -21,8 +21,8 @@ I use Claude (my favorite AI) to vibe code in React Native, Python, and more. My
 |---|---|
 | [mylangapp](https://github.com/kchorst/mylangapp) | Learn everyday vocabulary across 9 languages |
 | [kanji](https://github.com/kchorst/kanji) | Browse and learn Japanese Kanji with readings and examples |
-| [alphabets](https://github.com/kchorst/alphabets) | Explore 6 world writing systems — Cyrillic, Armenian, Georgian, Hiragana, Katakana, Hebrew |
-| SLPR *(coming soon)* | Cognitive shuffle sleep aid — drifts you to sleep with random words |
+| [alphabets](https://github.com/kchorst/alphabets) | Explore 6 world writing systems — Cyrillic, Armenian, Georgian, Hiragana, Katakana, Hebrew, Simplified Chinese |
+| [SLPR](https://github.com/kchorst/SLPR) | Cognitive shuffle sleep aid — drifts you to sleep with random words |
 | [catsoftravels-pipeline](https://github.com/kchorst/catsoftravels-pipeline) | Python pipeline for producing and publishing travel videos to YouTube |
 | [audio-prep-suite](https://github.com/kchorst/audio-prep-suite) | Modular Python toolkit for BPM detection, key finding, silence trimming, normalization, and audio conversion |
 
