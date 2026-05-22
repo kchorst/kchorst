@@ -1,7 +1,6 @@
 # Hi, I'm Kevin 👋
 
 - 🔭 Freelance vibe coder, business analyst, and learning experience designer
-- 🌱 Enrolled in Washington State University Master's of Strategic Communication program
 - 👯 Available to collaborate on organizational problem-solving and actionable interventions
 - ⚡ Fun fact: I started computing in 1979!
 
@@ -11,7 +10,7 @@
 
 I'm a freelance business and data analyst with over 35 years of experience across education, aviation safety, software, and hardware. I design learning experiences, develop data-driven strategies, and conduct research to inform business decisions.
 
-I vibe code in React Native, Python, and more. My personal interests are travel and languages, so most of my projects reflect that — mobile apps for exploring writing systems, learning vocabulary, and even falling asleep.
+My coding languages include React Native, Python, and more. My personal interests are travel and languages, so most of my projects reflect that — mobile apps for exploring writing systems, learning vocabulary, and even falling asleep.
 
 ---
 
@@ -19,6 +18,7 @@ I vibe code in React Native, Python, and more. My personal interests are travel 
 
 | App | Description |
 |---|---|
+| [Online Identity Self-Check]{https://kchorst.com) | See how much you are exposed on the Internet and consider a Local LLM |
 | [mylangapp](https://github.com/kchorst/mylangapp) | Learn everyday vocabulary across 9 languages |
 | [kanji](https://github.com/kchorst/kanji) | Browse and learn Japanese Kanji with readings and examples |
 | [alphabets](https://github.com/kchorst/alphabets) | Explore 6 world writing systems — Cyrillic, Armenian, Georgian, Hiragana, Katakana, Hebrew, Simplified Chinese |
@@ -47,6 +47,7 @@ Business analysis · Data analysis · Learning experience design · Data-driven 
 ## 📫 Contact
 
 - **GitHub:** [kchorst](https://github.com/kchorst)
+- **Website:** https://kchorst.com
 - **Email:** catsoftravels@gmail.com
 
 ---
