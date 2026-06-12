@@ -1,57 +1,41 @@
-# Hi, I'm Kevin 👋
-
-- 🔭 Freelance vibe coder, business analyst, and learning experience designer
-- 👯 Available to collaborate on organizational problem-solving and actionable interventions
-- ⚡ Fun fact: I started computing in 1979!
-
+Kevin Horst
+AI Implementation Engineer · Local LLM Deployment · Chrome Extensions · Private AI Tooling
+I build production-ready AI tooling for privacy-sensitive environments — local LLM pipelines, browser extensions, and deployment utilities for clients who can't afford cloud AI data exposure. Hardware roots → IT → instructional design → Microsoft → AI implementation. SDLC-fluent. Vibe codes effectively with Claude, Gemini, and Devin.
+Based in Tri-Cities, WA. Open to W2 contract and fractional AI implementation roles.
 ---
-
-## About Me
-
-I'm a freelance business and data analyst with over 35 years of experience across education, aviation safety, software, and hardware. I design learning experiences, develop data-driven strategies, and conduct research to inform business decisions.
-
-My coding languages include React Native, Python, and more. My personal interests are travel and languages, so most of my projects reflect that — mobile apps for exploring writing systems, learning vocabulary, and even falling asleep.
-
+🤖 How I Work
+I use AI as a production tool — not just for code generation, but for structured data creation at scale. Built original multilingual datasets across 10+ writing systems (Hiragana, Katakana, Kanji, Simplified Chinese, Cyrillic, Armenian, Georgian, Ethiopic, Hebrew, Korean) through iterative prompt engineering, validation, and correction. I know where LLMs fail on non-Latin scripts, structured output, and consistency at volume — because I hit every one of those walls building these projects.
 ---
-
-## 📱 Featured Projects
-
-| App | Description |
-|---|---|
-| [Online Identity Self-Check]{https://kchorst.com) | See how much you are exposed on the Internet and consider a Local LLM |
-| [mylangapp](https://github.com/kchorst/mylangapp) | Learn everyday vocabulary across 9 languages |
-| [kanji](https://github.com/kchorst/kanji) | Browse and learn Japanese Kanji with readings and examples |
-| [alphabets](https://github.com/kchorst/alphabets) | Explore 6 world writing systems — Cyrillic, Armenian, Georgian, Hiragana, Katakana, Hebrew, Simplified Chinese |
-| [SLPR](https://github.com/kchorst/SLPR) | Cognitive shuffle sleep aid — drifts you to sleep with random words |
-| [catsoftravels-pipeline](https://github.com/kchorst/catsoftravels-pipeline) | Python pipeline for producing and publishing travel videos to YouTube |
-| [audio-prep-suite](https://github.com/kchorst/audio-prep-suite) | Modular Python toolkit for BPM detection, key finding, silence trimming, normalization, and audio conversion |
-
+🛠 AI & Local LLM Tooling
+Repo	What it does
+Ai-Chat-Navigator	Chrome side-panel extension — scrapes full chat history from Claude and Gemini, lets you navigate to any past conversation, distill it via a tested two-tier prompt pipeline into a new chat window, and optionally deep dive the distillation. Manifest V3, multi-platform content scripts, merge-on-save caching.
+LLM-Tester	Chrome extension — discovers locally running LLMs and benchmarks them. TPS testing, RAG stress testing, model comparison, and history. Works against Ollama and LM Studio backends.
+LLMParametizer (in development)	Desktop tool for authoring llama-server INI configs with built-in TPS testing, RAG evaluation, and autotuning. Exports ready-to-deploy configs for client-site model selection and tuning sessions.
+tps-meter	Standalone Chrome extension for real-time tokens-per-second measurement against local LLM endpoints.
 ---
-
-## 🛠 Tech Stack
-
-- **Mobile:** React Native, Expo, TypeScript
-- **Data:** Spreadsheets, SQL, BigQuery
-- **Project Management:** Trello, Asana, Jira
-- **Communication:** Slack, Zoom, Google Meet
-- **AI:** Claude, CoPilot, ChatGPT, Gemini
-
+⚙️ Automation Pipelines
+Project	What it does
+Online Identity Self-Check	End-to-end lead funnel: HTML form → Google Apps Script → Brevo → personalized PDF report delivered via Gmail → next-step CTA. Sales funnel entry point for local LLM consulting. Closed source / proprietary.
+Daily Language Email Suite	Three automated daily emails (Kanji of the Day, Phrase of the Day in 7 languages, Letter of the Day across 15+ scripts) driven by original language datasets built for Android APKs, now running as Google Sheets → Apps Script → Brevo pipelines. Closed source.
 ---
-
-## 💼 Freelance Keywords
-
-Business analysis · Data analysis · Learning experience design · Data-driven strategies · Research · Performance interventions · SOPs · Training · Workshops · Job aids
-
+📱 Apps
+Repo	What it does
+mylangapp-web	PWA — everyday vocabulary across 9 languages. Vercel-deployed.
+kanji-web	PWA — browse and learn Japanese Kanji with readings and examples.
+alphabets	React Native / Expo — explore 6 world writing systems.
+SLPR-The-Sleep-App	Cognitive shuffle sleep aid — reads random words aloud at intervals to drift you to sleep.
 ---
-
-## 📫 Contact
-
-- **GitHub:** [kchorst](https://github.com/kchorst)
-- **Website:** https://kchorst.com
-- **Email:** catsoftravels@gmail.com
-
+🎬 Media & Audio Tools
+Repo	What it does
+youtube-movie-creator-toolkit	Python pipeline for producing and publishing travel videos to YouTube
+audio-prep-suite	Modular Python toolkit: BPM detection, key finding, silence trimming, normalization, audio conversion
 ---
-
-*Cats of Travels* 🐱✈️
-
-Thank you for stopping by! 🐱
+🧰 Stack
+Languages: Python · JavaScript · TypeScript · React Native  
+AI/LLM: Ollama · llama-server · llama.cpp · Qwen · Claude API · Gemini API  
+Chrome Extensions: Manifest V3 · content scripts · side panel · service workers · chrome.storage  
+Deployment: Vercel · Expo PWA · Google Apps Script · Brevo  
+Tools: VS Code · Continue · Cline · Git
+---
+📫 Contact
+Website: kchorst.com · Email: catsoftravels@gmail.com
