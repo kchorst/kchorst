@@ -15,6 +15,7 @@ I build tools for real-world constraints — Chrome extensions, local LLM toolin
 - [Ai-Chat-Navigator](https://github.com/kchorst/Ai-Chat-Navigator) - Side-panel extension for organizing AI conversations across Claude, Gemini, and Perplexity
 - [tps-meter](https://github.com/kchorst/tps-meter) - Real-time tokens-per-second measurement for local LLM endpoints
 - [Textify](https://github.com/kchorst/Textify) - ASCII art converter for webpage images
+- [Sentinel-Plus](https://github.com/kchorst/Sentinel-Plus)
 
 ### Local LLM Tooling
 - [LLM-Tester](https://github.com/kchorst/LLM-Tester) - Chrome extension for benchmarking local LLMs against Ollama and LM Studio
@@ -31,9 +32,6 @@ I build tools for real-world constraints — Chrome extensions, local LLM toolin
 - [youtube-movie-creator-toolkit](https://github.com/kchorst/youtube-movie-creator-toolkit) - Python pipeline for producing and publishing travel videos
 - [audio-prep-suite](https://github.com/kchorst/audio-prep-suite) - Python toolkit for audio preprocessing (BPM detection, silence trimming, normalization)
 - [SLPR-The-Sleep-App](https://github.com/kchorst/SLPR-The-Sleep-App) - Cognitive shuffle sleep aid
-
-### Other Projects
-- [Sentinel-Plus](https://github.com/kchorst/Sentinel-Plus)
 
 ---
 
