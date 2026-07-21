@@ -15,7 +15,7 @@ I build tools for real-world constraints — Chrome extensions, local LLM toolin
 - [Ai-Chat-Navigator](https://github.com/kchorst/Ai-Chat-Navigator) - Side-panel extension for organizing AI conversations across Claude, Gemini, and Perplexity
 - [tps-meter](https://github.com/kchorst/tps-meter) - Real-time tokens-per-second measurement for local LLM endpoints
 - [Textify](https://github.com/kchorst/Textify) - ASCII art converter for webpage images
-- [Sentinel-Plus](https://github.com/kchorst/Sentinel-Plus)
+- [Sentinel-Plus](https://github.com/kchorst/Sentinel-Plus) - Screens messages on cloud AI chat sites for personal, credential, and confidential information before they leave the browser
 
 ### Local LLM Tooling
 - [LLM-Tester](https://github.com/kchorst/LLM-Tester) - Chrome extension for benchmarking local LLMs against Ollama and LM Studio
