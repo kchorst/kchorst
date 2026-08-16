@@ -19,7 +19,9 @@ I build tools for real-world constraints — private AI pipelines, local LLM too
   <img src="/assets/LLM-Parametizer.png" width="450" alt="LLM-Parametizer Interface">
 
 ### Chrome Extensions & Browser Tools
-- [Ai-Chat-Navigator](https://github.com/kchorst/Ai-Chat-Navigator) - Side-panel extension for organizing AI conversations across Claude, Gemini, and Perplexity
+- [Ai-Chat-Navigator](https://github.com/kchorst/Ai-Chat-Navigator) - Side-panel extension for organizing AI conversations across Claude, Gemini, and Perplexity  
+  <br>
+  <img src="/assets/AI-Chat-Navigator.png" width="450" alt="Ai-Chat-Navigator Interface">
 - [tps-meter](https://github.com/kchorst/tps-meter) - Real-time tokens-per-second measurement for local LLM endpoints
 - [Sentinel-Plus](https://github.com/kchorst/Sentinel-Plus) - Screens messages on cloud AI chat sites for personal, credential, and confidential information before they leave the browser  
   <br>
