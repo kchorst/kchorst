@@ -32,7 +32,7 @@ Welcome to my open-source hub. Explore my categorized collection of browser exte
 ## 🌐 Browser Extensions & Systems
 
 * **[Textify](https://github.com/kchorst/Textify)**  
-  <a href="https://raw.githubusercontent.com/kchorst/kchorst/main/assets/textify.png"><img src="https://raw.githubusercontent.com/kchorst/kchorst/main/assets/textify.png" width="160" alt="Textify Thumbnail" style="border-radius: 6px; margin: 4px 0;" /></a>  
+  <a href="https://raw.githubusercontent.com/kchorst/kchorst/main/assets/textify.png"><img src="<img src="https://raw.githubusercontent.com/kchorst/kchorst/main/assets/textify_latest.gif" alt="Textify Demo" width="400">" width="160" alt="Textify Thumbnail" style="border-radius: 6px; margin: 4px 0;" /></a>  
   Browser extension to convert images from any webpage into ASCII art directly in your browser.
 
 * **[Web-Time-Machine](https://github.com/kchorst/Web-Time-Machine)**  
