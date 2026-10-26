@@ -48,7 +48,7 @@ Cross-platform mobile apps and PWAs designed around gap/fill pedagogy, language 
 Python toolkits and automation pipelines for audio processing, media conversion, and video creation.
 
 * <a href="https://github.com/kchorst/audio-prep-suite"><img src="https://raw.githubusercontent.com/kchorst/kchorst/main/assets/Audio%20Prep%20Suite%201.jpg" width="36" height="36" style="border-radius: 6px; vertical-align: middle; margin-right: 8px;" /></a> **[audio-prep-suite](https://github.com/kchorst/audio-prep-suite)** – Modular Python toolkit for BPM detection, key finding, silence trimming, normalization, and audio conversion.
-* <a href="https://github.com/kchorst/youtube-movie-creator-toolkit"><img src="https://raw.githubusercontent.com/kchorst/kchorst/main/assets/youtube%20movie%20creator%20toolkit%201.png" width="36" height="36" style="border-radius: 6px; vertical-align: middle; margin-right: 8px;" /></a> **[youtube-movie-creator-toolkit](https://github.com/kchorst/youtube-movie-creator-toolkit)** – Automated Python pipeline for quickly producing and publishing videos to YouTube.
+* <a href="https://github.com/kchorst/youtube-movie-creator-toolkit"><img src="https://raw.githubusercontent.com/kchorst/kchorst/main/assets/youtube-movie-creator-toolkit-1.jpg" width="36" height="36" style="border-radius: 6px; vertical-align: middle; margin-right: 8px;" /></a> **[youtube-movie-creator-toolkit](https://github.com/kchorst/youtube-movie-creator-toolkit)** – Automated Python pipeline for quickly producing and publishing videos to YouTube.
 
 ---
 
