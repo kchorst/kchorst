@@ -8,13 +8,13 @@ Welcome to my GitHub profile and repository hub. Below is a categorized collecti
 ## 🤖 Local LLMs & AI Tooling (`llm-related`)
 Tools for evaluating, benchmarking, and bridging local Large Language Model stacks securely without leaking sensitive data to external endpoints.
 
-* <a href="https://github.com/kchorst/LLM-Radar"><img src="https://raw.githubusercontent.com/kchorst/kchorst/main/assets/LLM%20Radar%20A.jpg" width="36" height="36" style="border-radius: 6px; vertical-align: middle; margin-right: 8px;" /></a> **[LLM-Radar](https://github.com/kchorst/LLM-Radar)** – Privacy-focused local LLM bridging and proofing suite.
+* <a href="https://github.com/kchorst/LLM-Radar"><img src="https://raw.githubusercontent.com/kchorst/kchorst/main/assets/LLM%20Radar%201.png" width="36" height="36" style="border-radius: 6px; vertical-align: middle; margin-right: 8px;" /></a> **[LLM-Radar](https://github.com/kchorst/LLM-Radar)** – Privacy-focused local LLM bridging and proofing suite.
 
 * <a href="https://github.com/kchorst/LLM-Parametizer"><img src="https://raw.githubusercontent.com/kchorst/kchorst/main/assets/LLM-Parametizer.png" width="36" height="36" style="border-radius: 6px; vertical-align: middle; margin-right: 8px;" /></a> **[LLM-Parametizer](https://github.com/kchorst/LLM-Parametizer)** – Select, download, chat, RAG, autotune, benchmark/compare, and report on local LLM installations.
 
 * <a href="https://github.com/kchorst/LLM-Tester"><img src="https://raw.githubusercontent.com/kchorst/kchorst/main/assets/LLM%20Tester%201.jpg" width="36" height="36" style="border-radius: 6px; vertical-align: middle; margin-right: 8px;" /></a> **[LLM-Tester](https://github.com/kchorst/LLM-Tester)** – Browser extension to find locally running LLMs and test them.
 
-* <a href="https://github.com/kchorst/Ai-Chat-Navigator"><img src="https://raw.githubusercontent.com/kchorst/kchorst/main/assets/AI%20Chat%20Navigator.png" width="36" height="36" style="border-radius: 6px; vertical-align: middle; margin-right: 8px;" /></a> **[Ai-Chat-Navigator](https://github.com/kchorst/Ai-Chat-Navigator)** – View, search, and distill all your AI chat histories.
+* <a href="https://github.com/kchorst/Ai-Chat-Navigator"><img src="https://raw.githubusercontent.com/kchorst/kchorst/main/assets/AI-Chat-Navigator.png" width="36" height="36" style="border-radius: 6px; vertical-align: middle; margin-right: 8px;" /></a> **[Ai-Chat-Navigator](https://github.com/kchorst/Ai-Chat-Navigator)** – View, search, and distill all your AI chat histories.
 
 * **[tps-meter](https://github.com/kchorst/tps-meter)** – Super simple Chrome extension for real-time tokens-per-second measurement against local LLM endpoints.
 
@@ -23,7 +23,7 @@ Tools for evaluating, benchmarking, and bridging local Large Language Model stac
 ## 🌐 Browser Extensions & Utilities (`browser-extensions`)
 Custom browser tools engineered with Manifest V3 to optimize DOM manipulation, manage AI workflows, and automate online tasks.
 
-* <a href="https://github.com/kchorst/Ai-Chat-Navigator"><img src="https://raw.githubusercontent.com/kchorst/kchorst/main/assets/AI%20Chat%20Navigator.png" width="36" height="36" style="border-radius: 6px; vertical-align: middle; margin-right: 8px;" /></a> **[Ai-Chat-Navigator](https://github.com/kchorst/Ai-Chat-Navigator)** – Manage and search multi-platform AI chat histories.
+* <a href="https://github.com/kchorst/Ai-Chat-Navigator"><img src="https://raw.githubusercontent.com/kchorst/kchorst/main/assets/AI-Chat-Navigator.png" width="36" height="36" style="border-radius: 6px; vertical-align: middle; margin-right: 8px;" /></a> **[Ai-Chat-Navigator](https://github.com/kchorst/Ai-Chat-Navigator)** – Manage and search multi-platform AI chat histories.
 * <a href="https://github.com/kchorst/LLM-Tester"><img src="https://raw.githubusercontent.com/kchorst/kchorst/main/assets/LLM%20Tester%201.jpg" width="36" height="36" style="border-radius: 6px; vertical-align: middle; margin-right: 8px;" /></a> **[LLM-Tester](https://github.com/kchorst/LLM-Tester)** – Local endpoint discovery and testing utility.
 * <a href="https://github.com/kchorst/Sentinel-Plus"><img src="https://raw.githubusercontent.com/kchorst/kchorst/main/assets/Sentinel-Plus.png" width="36" height="36" style="border-radius: 6px; vertical-align: middle; margin-right: 8px;" /></a> **[Sentinel-Plus](https://github.com/kchorst/Sentinel-Plus)** – Advanced browser security and utility extension.
 * <a href="https://github.com/kchorst/Textify"><img src="https://raw.githubusercontent.com/kchorst/kchorst/main/assets/textify.png" width="36" height="36" style="border-radius: 6px; vertical-align: middle; margin-right: 8px;" /></a> **[Textify](https://github.com/kchorst/Textify)** – Convert images from any webpage into ASCII art directly in your browser.
@@ -40,7 +40,7 @@ Cross-platform mobile apps and PWAs designed around gap/fill pedagogy, language 
 * **[kanji-web](https://github.com/kchorst/kanji-web)** – PWA version of the Kanji learning application.
 * **[mylangapp](https://github.com/kchorst/mylangapp)** – React Native / Expo app for learning everyday vocabulary across multiple languages.
 * **[mylangapp-web](https://github.com/kchorst/mylangapp-web)** – Web companion for vocabulary acquisition.
-* <a href="https://github.com/kchorst/SLPR-The-Sleep-App"><img src="https://raw.githubusercontent.com/kchorst/kchorst/main/assets/SLPR%201.jpeg" width="36" height="36" style="border-radius: 6px; vertical-align: middle; margin-right: 8px;" /></a> **[SLPR-The-Sleep-App](https://github.com/kchorst/SLPR-The-Sleep-App)** – Audio-visual relaxation and word-interval sleep application.
+* <a href="https://github.com/kchorst/SLPR-The-Sleep-App"><img src="https://raw.githubusercontent.com/kchorst/kchorst/main/assets/SLPR%201.png" width="36" height="36" style="border-radius: 6px; vertical-align: middle; margin-right: 8px;" /></a> **[SLPR-The-Sleep-App](https://github.com/kchorst/SLPR-The-Sleep-App)** – Audio-visual relaxation and word-interval sleep application.
 
 ---
 
