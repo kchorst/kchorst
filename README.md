@@ -8,7 +8,7 @@ Welcome to my GitHub profile and repository hub. Below is a categorized collecti
 ## 🤖 Local LLMs & AI Tooling (`llm-related`)
 Tools for evaluating, benchmarking, and bridging local Large Language Model stacks securely without leaking sensitive data to external endpoints.
 
-* <a href="https://github.com/kchorst/LLM-Radar"><img src="https://raw.githubusercontent.com/kchorst/kchorst/main/assets/LLM%20Radar%201.png" width="36" height="36" style="border-radius: 6px; vertical-align: middle; margin-right: 8px;" /></a> **[LLM-Radar](https://github.com/kchorst/LLM-Radar)** – Privacy-focused local LLM bridging and proofing suite.
+* <a href="https://github.com/kchorst/LLM-Radar"><img src="https://raw.githubusercontent.com/kchorst/kchorst/main/assets/LLM%20Radar%201.jpg" width="36" height="36" style="border-radius: 6px; vertical-align: middle; margin-right: 8px;" /></a> **[LLM-Radar](https://github.com/kchorst/LLM-Radar)** – Privacy-focused local LLM bridging and proofing suite.
 
 * <a href="https://github.com/kchorst/LLM-Parametizer"><img src="https://raw.githubusercontent.com/kchorst/kchorst/main/assets/LLM-Parametizer.png" width="36" height="36" style="border-radius: 6px; vertical-align: middle; margin-right: 8px;" /></a> **[LLM-Parametizer](https://github.com/kchorst/LLM-Parametizer)** – Select, download, chat, RAG, autotune, benchmark/compare, and report on local LLM installations.
 
