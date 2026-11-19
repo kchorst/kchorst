@@ -6,6 +6,19 @@ Welcome to my open-source hub. Explore my categorized collection of browser exte
 
 ---
 
+
+## 🌍 Travel Tools
+
+* **[VisaBrowser](https://github.com/kchorst/VisaBrowser)**  
+  <a href="https://raw.githubusercontent.com/kchorst/kchorst/main/assets/VisaBrowser.jpg"><img src="https://raw.githubusercontent.com/kchorst/kchorst/main/assets/VisaBrowser.jpg" width="160" alt="VisaBrowser screenshot" /></a>  
+  Mobile-friendly visa and entry-requirements browser with passport-specific destination guidance and offline access.
+
+* **[Travel-Prep](https://github.com/kchorst/Travel-Prep)**  
+  <a href="https://raw.githubusercontent.com/kchorst/kchorst/main/assets/Travel-Prep.jpg"><img src="https://raw.githubusercontent.com/kchorst/kchorst/main/assets/Travel-Prep.jpg" width="160" alt="Travel-Prep screenshot" /></a>  
+  Offline-capable travel reference and trip planner with sourced destination profiles, preparation guidance, and country itineraries.
+
+---
+
 ## 🤖 Local AI, Privacy & LLM Tooling
 
 * **[LLM-Radar](https://github.com/kchorst/LLM-Radar)**  
